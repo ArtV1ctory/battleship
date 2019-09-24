@@ -10,3 +10,4 @@
 
 To run the application in your Visual Studio, use [these project settings](http://grafika.me/node/518).
 
+[Gamewindow](https://github.com/ArtV1ctory/battleship/blob/master/battleship.PNG)
